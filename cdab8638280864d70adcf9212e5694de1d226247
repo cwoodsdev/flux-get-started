@@ -1,0 +1,1 @@
+{"jobID":"bf094262-30cd-1438-4136-f7d84e16a87e","spec":{"type":"policy","cause":{"Message":"","User":"Chris Woods \u003cchris@chriswoods.m.e.uk\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
