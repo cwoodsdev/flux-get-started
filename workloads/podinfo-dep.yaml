@@ -11,6 +11,9 @@ metadata:
     fluxcd.io/automated: "true"
     fluxcd.io/tag.init: regex:^3.10.*
     fluxcd.io/tag.podinfod: glob:3.2.*
+    fluxcd.io/locked_user: Chris Woods <chris@chriswoods.m.e.uk>
+    fluxcd.io/locked: 'true'
+    fluxcd.io/locked_msg: 3.2.4 does not work for us
 spec:
   strategy:
     rollingUpdate:
