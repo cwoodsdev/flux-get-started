@@ -1,0 +1,1 @@
+{"jobID":"d9baf2ae-a724-3faa-b807-95d018e8529c","spec":{"type":"policy","cause":{"Message":"3.2.4 does not work for us","User":"Chris Woods \u003cchris@chriswoods.m.e.uk\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"3.2.4 does not work for us","locked_user":"Chris Woods \u003cchris@chriswoods.m.e.uk\u003e"},"remove":{}}}},"result":null}
